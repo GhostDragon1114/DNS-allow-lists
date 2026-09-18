@@ -1,1 +1,15 @@
 (\.|^)proxmox\.com$
+(\.|^)o2online\.de$
+(\.|^)cdninstagram\.com$
+(\.|^)instagram\.com$
+(\.|^)ig\.me$
+(\.|^)cloudfront\.net$
+(\.|^)s3\.amazonaws\.com$
+(\.|^)github\.com$
+(\.|^)githubapp\.com$
+(\.|^)github\.io$
+(\.|^)cdn\.ampproject\.org$
+(\.|^)gstatic.com$
+(\.|^)storage.googleapis.com$
+(\.|^)ubisoft\.com$
+(\.|^)ubi\.com$
